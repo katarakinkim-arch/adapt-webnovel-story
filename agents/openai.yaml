@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事"
+  short_description: "从完整网文诊断到商业化AI漫剧文学剧本的分阶段改编系统"
+  default_prompt: "使用 $adapt-webnovel-story 分析这部网文，并分阶段改编成商业化AI漫剧文学剧本。"
